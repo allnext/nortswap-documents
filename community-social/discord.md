@@ -1,4 +1,3 @@
 # Telegram
 
-[https://t.me/PancakeSwap](https://t.me/PancakeSwap)
-
+[https://t.me/Nortswap](https://t.me/Nortswap)

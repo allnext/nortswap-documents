@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/docs-masthead-20-.png)
 
-#### 
+####
 
 #### Business Contacts
 
@@ -14,13 +14,10 @@
 
 ### [Apply for the NFT Market](nft-market-applications.md)
 
-#### 
+####
 
 #### Help!
 
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
+### [Customer Support](customer-support.md#there-is-no-customer-support-for-nortswap)
 
 ### [Social Communities](telegram.md)
-
-
-

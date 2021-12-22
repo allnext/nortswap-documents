@@ -1,7 +1,7 @@
 # Router v2
 
 {% hint style="warning" %}
-PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).  
+Nortswap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).  
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf).
 {% endhint %}
 
@@ -10,9 +10,9 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 **Contract name:** PancakeRouter  
 **Contract address:** 0x10ED43C718714eb63d5aA57B78B54704E256024E
 
-View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
+View [PancakeRouter.sol on GitHub](https://github.com/allnext/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
 
-View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
+View the [Nortswap: Factory v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
 ## Read functions
 
@@ -71,16 +71,16 @@ function addLiquidity(
 
 Adds liquidity to a BEP20⇄BEP20 pool.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| tokenA | `address` | The contract address of one token from your liquidity pair. |
-| tokenB | `address` | The contract address of the other token from your liquidity pair. |
-| amountADesired | `uint` | The amount of tokenA you'd like to provide as liquidity. |
-| amountBDesired | `uint` | The amount of tokenA you'd like to provide as liquidity. |
-| amountAMin | `uint` | The minimum amount of tokenA to provide \(slippage impact\). |
-| amountBMin | `uint` | The minimum amount of tokenB to provide \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name           | Type      |                                                                   |
+| :------------- | :-------- | :---------------------------------------------------------------- |
+| tokenA         | `address` | The contract address of one token from your liquidity pair.       |
+| tokenB         | `address` | The contract address of the other token from your liquidity pair. |
+| amountADesired | `uint`    | The amount of tokenA you'd like to provide as liquidity.          |
+| amountBDesired | `uint`    | The amount of tokenA you'd like to provide as liquidity.          |
+| amountAMin     | `uint`    | The minimum amount of tokenA to provide \(slippage impact\).      |
+| amountBMin     | `uint`    | The minimum amount of tokenB to provide \(slippage impact\).      |
+| to             | `address` | Address of LP Token recipient.                                    |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm.    |
 
 ### addLiquidityETH
 
@@ -97,15 +97,15 @@ function addLiquidityETH(
 
 Adds liquidity to a BEP20⇄WBNB pool.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| addLiquidityETH | `uint` | The payable amount in BNB. |
-| token | `address` | The contract address of the token to add liquidity. |
-| amountTokenDesired | `uint` | The amount of the token you'd like to provide as liquidity. |
-| amountTokenMin | `uint` | The minimum amount of the token to provide \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to provide \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name               | Type      |                                                                 |
+| :----------------- | :-------- | :-------------------------------------------------------------- |
+| addLiquidityETH    | `uint`    | The payable amount in BNB.                                      |
+| token              | `address` | The contract address of the token to add liquidity.             |
+| amountTokenDesired | `uint`    | The amount of the token you'd like to provide as liquidity.     |
+| amountTokenMin     | `uint`    | The minimum amount of the token to provide \(slippage impact\). |
+| amountETHMin       | `uint`    | The minimum amount of BNB to provide \(slippage impact\).       |
+| to                 | `address` | Address of LP Token recipient.                                  |
+| deadline           | `uint`    | Unix timestamp deadline by which the transaction must confirm.  |
 
 ### removeLiquidity
 
@@ -123,15 +123,15 @@ function removeLiquidity(
 
 Removes liquidity from a BEP20⇄BEP20 pool.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| tokenA | `address` | The contract address of one token from your liquidity pair. |
-| tokenB | `address` | The contract address of the other token from your liquidity pair. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountAMin | `uint` | The minimum amount of tokenA to remove \(slippage impact\). |
-| amountBMin | `uint` | The minimum amount of tokenB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name       | Type      |                                                                   |
+| :--------- | :-------- | :---------------------------------------------------------------- |
+| tokenA     | `address` | The contract address of one token from your liquidity pair.       |
+| tokenB     | `address` | The contract address of the other token from your liquidity pair. |
+| liquidity  | `uint`    | The amount of LP Tokens to remove.                                |
+| amountAMin | `uint`    | The minimum amount of tokenA to remove \(slippage impact\).       |
+| amountBMin | `uint`    | The minimum amount of tokenB to remove \(slippage impact\).       |
+| to         | `address` | Address of LP Token recipient.                                    |
+| deadline   | `uint`    | Unix timestamp deadline by which the transaction must confirm.    |
 
 ### removeLiquidityETH
 
@@ -148,14 +148,14 @@ function removeLiquidityETH(
 
 Removes liquidity from a BEP20⇄WBNB pool.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| token | `address` | The contract address of the token to remove liquidity. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountTokenMin | `uint` | The minimum amount of the token to remove \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name           | Type      |                                                                |
+| :------------- | :-------- | :------------------------------------------------------------- |
+| token          | `address` | The contract address of the token to remove liquidity.         |
+| liquidity      | `uint`    | The amount of LP Tokens to remove.                             |
+| amountTokenMin | `uint`    | The minimum amount of the token to remove \(slippage impact\). |
+| amountETHMin   | `uint`    | The minimum amount of BNB to remove \(slippage impact\).       |
+| to             | `address` | Address of LP Token recipient.                                 |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm. |
 
 ### removeLiquidityETHSupportingFeeOnTransferTokens
 
@@ -172,14 +172,14 @@ function removeLiquidityETHSupportingFeeOnTransferTokens(
 
 Removes liquidity from a BEP20⇄WBNB for tokens that take a fee on transfer.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| token | `address` | The contract address of the token to remove liquidity. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountTokenMin | `uint` | The minimum amount of the token to remove \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name           | Type      |                                                                |
+| :------------- | :-------- | :------------------------------------------------------------- |
+| token          | `address` | The contract address of the token to remove liquidity.         |
+| liquidity      | `uint`    | The amount of LP Tokens to remove.                             |
+| amountTokenMin | `uint`    | The minimum amount of the token to remove \(slippage impact\). |
+| amountETHMin   | `uint`    | The minimum amount of BNB to remove \(slippage impact\).       |
+| to             | `address` | Address of LP Token recipient.                                 |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm. |
 
 ### removeLiquidityETHWithPermit
 
@@ -197,18 +197,18 @@ function removeLiquidityETHWithPermit(
 
 Removes liquidity from a BEP20⇄WBNB and receives BNB, without pre-approval, via permit.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| token | `address` | The contract address of the token to remove liquidity. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountTokenMin | `uint` | The minimum amount of the token to remove \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
-| v | `uint8` | The v component of the permit signature. |
-| r | `bytes32` | The r component of the permit signature. |
-| s | `bytes32` | The s component of the permit signature. |
+| Name           | Type      |                                                                                     |
+| :------------- | :-------- | :---------------------------------------------------------------------------------- |
+| token          | `address` | The contract address of the token to remove liquidity.                              |
+| liquidity      | `uint`    | The amount of LP Tokens to remove.                                                  |
+| amountTokenMin | `uint`    | The minimum amount of the token to remove \(slippage impact\).                      |
+| amountETHMin   | `uint`    | The minimum amount of BNB to remove \(slippage impact\).                            |
+| to             | `address` | Address of LP Token recipient.                                                      |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm.                      |
+| approveMax     | `bool`    | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| v              | `uint8`   | The v component of the permit signature.                                            |
+| r              | `bytes32` | The r component of the permit signature.                                            |
+| s              | `bytes32` | The s component of the permit signature.                                            |
 
 ### removeLiquidityETHWithPermitSupportingFeeOnTransferTokens
 
@@ -226,18 +226,18 @@ function removeLiquidityETHWithPermitSupportingFeeOnTransferTokens(
 
 Removes liquidity from a BEP20⇄WBNB and receives BNB via permit for tokens that take a fee on transfer.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| token | `address` | The contract address of the token to remove liquidity. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountTokenMin | `uint` | The minimum amount of the token to remove \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
-| v | `uint8` | The v component of the permit signature. |
-| r | `bytes32` | The r component of the permit signature. |
-| s | `bytes32` | The s component of the permit signature. |
+| Name           | Type      |                                                                                     |
+| :------------- | :-------- | :---------------------------------------------------------------------------------- |
+| token          | `address` | The contract address of the token to remove liquidity.                              |
+| liquidity      | `uint`    | The amount of LP Tokens to remove.                                                  |
+| amountTokenMin | `uint`    | The minimum amount of the token to remove \(slippage impact\).                      |
+| amountETHMin   | `uint`    | The minimum amount of BNB to remove \(slippage impact\).                            |
+| to             | `address` | Address of LP Token recipient.                                                      |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm.                      |
+| approveMax     | `bool`    | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| v              | `uint8`   | The v component of the permit signature.                                            |
+| r              | `bytes32` | The r component of the permit signature.                                            |
+| s              | `bytes32` | The s component of the permit signature.                                            |
 
 ### removeLiquidityWithPermit
 
@@ -256,19 +256,19 @@ function removeLiquidityWithPermit(
 
 Removes liquidity from a BEP20⇄BEP20, without pre-approval, via permit.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| tokenA | `address` | The contract address of one token from your liquidity pair. |
-| tokenB | `address` | The contract address of the other token from your liquidity pair. |
-| liquidity | `uint` | The amount of LP Tokens to remove. |
-| amountTokenMin | `uint` | The minimum amount of the token to remove \(slippage impact\). |
-| amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
-| to | `address` | Address of LP Token recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
-| v | `uint8` | The v component of the permit signature. |
-| r | `bytes32` | The r component of the permit signature. |
-| s | `bytes32` | The s component of the permit signature. |
+| Name           | Type      |                                                                                     |
+| :------------- | :-------- | :---------------------------------------------------------------------------------- |
+| tokenA         | `address` | The contract address of one token from your liquidity pair.                         |
+| tokenB         | `address` | The contract address of the other token from your liquidity pair.                   |
+| liquidity      | `uint`    | The amount of LP Tokens to remove.                                                  |
+| amountTokenMin | `uint`    | The minimum amount of the token to remove \(slippage impact\).                      |
+| amountETHMin   | `uint`    | The minimum amount of BNB to remove \(slippage impact\).                            |
+| to             | `address` | Address of LP Token recipient.                                                      |
+| deadline       | `uint`    | Unix timestamp deadline by which the transaction must confirm.                      |
+| approveMax     | `bool`    | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| v              | `uint8`   | The v component of the permit signature.                                            |
+| r              | `bytes32` | The r component of the permit signature.                                            |
+| s              | `bytes32` | The s component of the permit signature.                                            |
 
 ### swapETHForExactTokens
 
@@ -281,13 +281,13 @@ function swapETHForExactTokens(uint amountOut, address[] calldata path, address 
 
 Receive an exact amount of output tokens for as little BNB as possible.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| swapETHForExactTokens | `uint` | Payable BNB amount. |
-| amountOut | `uint` | The amount tokens to receive. |
-| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name                  | Type      |                                                                                                                                         |
+| :-------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| swapETHForExactTokens | `uint`    | Payable BNB amount.                                                                                                                     |
+| amountOut             | `uint`    | The amount tokens to receive.                                                                                                           |
+| path \(address\[\]\)  | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| to                    | `address` | Address of recipient.                                                                                                                   |
+| deadline              | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactETHForTokens
 
@@ -300,13 +300,13 @@ function swapExactETHForTokens(uint amountOutMin, address[] calldata path, addre
 
 Receive an as many output tokens as possible for an exact amount of BNB.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| swapExactETHForTokens | `uint` | Payable BNB amount. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name                  | Type      |                                                                                                                                         |
+| :-------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| swapExactETHForTokens | `uint`    | Payable BNB amount.                                                                                                                     |
+| amountOutMin          | `uint`    | The minimum amount tokens to receive.                                                                                                   |
+| path \(address\[\]\)  | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| to                    | `address` | Address of recipient.                                                                                                                   |
+| deadline              | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactETHForTokensSupportingFeeOnTransferTokens
 
@@ -321,13 +321,13 @@ function swapExactETHForTokensSupportingFeeOnTransferTokens(
 
 Receive an as many output tokens as possible for an exact amount of BNB. Supports tokens that take a fee on transfer.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| swapExactETHForTokensSupportingFeeOnTransferTokens | `uint` | Payable BNB amount. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| Name                                               | Type      |                                                                                                                                         |
+| :------------------------------------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| swapExactETHForTokensSupportingFeeOnTransferTokens | `uint`    | Payable BNB amount.                                                                                                                     |
+| amountOutMin                                       | `uint`    | The minimum amount tokens to receive.                                                                                                   |
+| path \(address\[\]\)                               | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| to                                                 | `address` | Address of recipient.                                                                                                                   |
+| deadline                                           | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactTokensForETH
 
@@ -339,13 +339,13 @@ function swapExactTokensForETH(uint amountIn, uint amountOutMin, address[] calld
 
 Receive an as much BNB as possible for an exact amount of input tokens.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountIn | `uint` | Payable amount of input tokens. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountIn             | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountOutMin         | `uint`    | The minimum amount tokens to receive.                                                                                                   |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactTokensForETHSupportingFeeOnTransferTokens
 
@@ -361,13 +361,13 @@ function swapExactTokensForETHSupportingFeeOnTransferTokens(
 
 Receive an as much BNB as possible for an exact amount of tokens. Supports tokens that take a fee on transfer.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountIn | `uint` | Payable amount of input tokens. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountIn             | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountOutMin         | `uint`    | The minimum amount tokens to receive.                                                                                                   |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactTokensForTokens
 
@@ -383,13 +383,13 @@ function swapExactTokensForTokens(
 
 Receive an as many output tokens as possible for an exact amount of input tokens.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountIn | `uint` | Payable amount of input tokens. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountIn             | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountOutMin         | `uint`    | The minimum amount tokens to receive.                                                                                                   |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapExactTokensForTokensSupportingFeeOnTransferTokens
 
@@ -405,13 +405,13 @@ function swapExactTokensForTokensSupportingFeeOnTransferTokens(
 
 Receive an as many output tokens as possible for an exact amount of input tokens. Supports tokens that take a fee on transfer.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountIn | `uint` | Payable amount of input tokens. |
-| amountOutMin | `uint` | The minimum amount tokens to receive. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountIn             | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountOutMin         | `uint`    | The minimum amount tokens to receive.                                                                                                   |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapTokensForExactETH
 
@@ -423,13 +423,13 @@ function swapTokensForExactETH(uint amountOut, uint amountInMax, address[] calld
 
 Receive an exact amount of ETH for as few input tokens as possible.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountOut | `uint` | Payable amount of input tokens. |
-| amountInMax | `uint` | The minimum amount tokens to input. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountOut            | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountInMax          | `uint`    | The minimum amount tokens to input.                                                                                                     |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ### swapTokensForExactTokens
 
@@ -445,13 +445,13 @@ function swapTokensForExactTokens(
 
 Receive an exact amount of output tokens for as few input tokens as possible.
 
-| Name | Type |  |
-| :--- | :--- | :--- |
-| amountOut | `uint` | Payable amount of input tokens. |
-| amountInMax | `uint` | The minimum amount tokens to input. |
+| Name                 | Type      |                                                                                                                                         |
+| :------------------- | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| amountOut            | `uint`    | Payable amount of input tokens.                                                                                                         |
+| amountInMax          | `uint`    | The minimum amount tokens to input.                                                                                                     |
 | path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
-| to | `address` | Address of recipient. |
-| deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
+| to                   | `address` | Address of recipient.                                                                                                                   |
+| deadline             | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                          |
 
 ## Interface
 
@@ -601,4 +601,3 @@ interface IPancakeRouter02 is IPancakeRouter01 {
     ) external;
 }
 ```
-

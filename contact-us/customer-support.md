@@ -2,7 +2,7 @@
 
 ![Well, the thing is...](../.gitbook/assets/docs-masthead-23-.png)
 
-## There is NO customer support for PancakeSwap.
+## There is NO customer support for Nortswap.
 
 If you're experiencing issues,
 
@@ -16,4 +16,3 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 {% hint style="danger" %}
 **NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
 {% endhint %}
-

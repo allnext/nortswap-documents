@@ -4,10 +4,10 @@
 
 ### **What are Syrup Pools?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.  
-Stake CAKE, earn free tokens. It’s really that easy.
+Syrup Pools are the simplest way to earn free tokens on Nortswap.  
+Stake NT, earn free tokens. It’s really that easy.
 
-Some special pools let you stake other tokens besides CAKE, too!
+Some special pools let you stake other tokens besides NT, too!
 
 ### **How can I use Syrup Pools?**
 
@@ -21,17 +21,12 @@ Some special pools let you stake other tokens besides CAKE, too!
 
 ### **How can I run a Syrup Pool for my project?**
 
-Reach out via [the application form](https://docs.pancakeswap.finance/contact-us/business-partnerships).
+Reach out via [the application form](https://docs.nortswap.finance/contact-us/business-partnerships).
 
 ### Syrup Pool Smart Contracts <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 [All Manual Syrup Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
 
-[Auto CAKE Syrup Pool](../../code/smart-contracts/cakevault.md)
+[Auto NT Syrup Pool](../../code/smart-contracts/cakevault.md)
 
-###  <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
-
-
-
-
+### <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>

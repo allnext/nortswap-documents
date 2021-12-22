@@ -2,43 +2,43 @@
 
 ![](../.gitbook/assets/docs-masthead-22-.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of Nortswap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+[https://twitter.com/allnext](https://twitter.com/allnext)
 
 ## 📰 Blog (Medium)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+https://medium.com/@nortswap"
 
 ## 👽 Reddit
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+https://reddit.com/r/nortswap"
 
 ## 🤳 Instagram
 
-{% embed url="https://www.instagram.com/pancakeswap_official/" %}
+https://www.instagram.com/allnext_official/"
 
 ## 💬 Telegram
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)) 
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap)) 
-* 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap_CN](http://t.me/PancakeSwap_CN)) 
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)) 
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN)) 
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)) 
-* 🇷🇺 Russian ([http://t.me/pancakeswap_ru](http://t.me/pancakeswap_ru)) 
-* 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)) 
-* 🇮🇹 Italiano ([https://t.me/pancakeswap_ita](https://t.me/pancakeswap_ita)) 
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)) 
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap_DE](https://t.me/PancakeSwap_DE))
-* 🇵🇭 Filipino ([https://t.me/Pancakeswap_Ph](https://t.me/Pancakeswap_Ph))
-* 😤 Ban Appeal ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
+- 📣 Announcement Channel ([http://t.me/NortswapAnn](http://t.me/NortswapAnn))
+- 🥞 English ([http://t.me/nortswap](http://t.me/nortswap))
+- 🇯🇵 Japanese ([https://t.me/NortswapJP](https://t.me/NortswapJP))
+- 🇨🇳 Chinese ([http://t.me/Nortswap_CN](http://t.me/Nortswap_CN))
+- 🇮🇩 Indonesian ([http://t.me/NortswapIndonesia](http://t.me/NortswapIndonesia))
+- 🇻🇳 Việt Nam ([https://t.me/NortswapVN](https://t.me/NortswapVN))
+- 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/NortswapES](https://t.me/NortswapES))
+- 🇷🇺 Russian ([http://t.me/nortswap_ru](http://t.me/nortswap_ru))
+- 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/NortswapPortuguese](https://t.me/NortswapPortuguese))
+- 🇫🇷 French ([https://t.me/nortswapfr](https://t.me/nortswapfr))
+- 🇮🇹 Italiano ([https://t.me/nortswap_ita](https://t.me/nortswap_ita))
+- 🇹🇷 Türkiye ([https://t.me/nortswapturkiye](https://t.me/nortswapturkiye))
+- 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/Nortswap_DE](https://t.me/Nortswap_DE))
+- 🇵🇭 Filipino ([https://t.me/Nortswap_Ph](https://t.me/Nortswap_Ph))
+- 😤 Ban Appeal ([https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.

@@ -1,34 +1,31 @@
 # Telegram Communities
 
-**Official Telegram Groups:** 
+**Official Telegram Groups:**
 
-📣 Announcement Channel \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
+📣 Announcement Channel \([http://t.me/NortswapAnn](http://t.me/NortswapAnn)\)
 
-🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
+🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/nortswap](http://t.me/nortswap)\)
 
-🇨🇳 Chinese Chat \([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN)\) 
+🇨🇳 Chinese Chat \([http://t.me/Nortswap_CN](http://t.me/Nortswap_CN)\)
 
-🇮🇩 Indonesian Chat \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\) 
+🇮🇩 Indonesian Chat \([http://t.me/NortswapIndonesia](http://t.me/NortswapIndonesia)\)
 
-😤 Ban Appeal \([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
-
-
+😤 Ban Appeal \([https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
 
 **Unofficial Telegram Groups:**
 
- 🇻🇳 Vietnamese Community \([http://t.me/PancakeSwapVI](http://t.me/PancakeSwapVI)\) 
+🇻🇳 Vietnamese Community \([http://t.me/NortswapVI](http://t.me/NortswapVI)\)
 
-🇵🇭 Filipino Community \([http://t.me/Pancakeswap\_Ph](http://t.me/Pancakeswap_Ph)\) 
+🇵🇭 Filipino Community \([http://t.me/Nortswap_Ph](http://t.me/Nortswap_Ph)\)
 
-🇪🇸 Spanish Community \([http://t.me/PancakeSwapES](http://t.me/PancakeSwapES)\) 
+🇪🇸 Spanish Community \([http://t.me/NortswapES](http://t.me/NortswapES)\)
 
-🇷🇺 Russian Community \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
+🇷🇺 Russian Community \([http://t.me/nortswap_ru](http://t.me/nortswap_ru)\)
 
-🇹🇷 Turkish Community \([http://t.me/PancakeSwapTurkish](http://t.me/PancakeSwapTurkish)\)
+🇹🇷 Turkish Community \([http://t.me/NortswapTurkish](http://t.me/NortswapTurkish)\)
 
- 🇩🇪 Deutsche Community \([http://t.me/pancakeswapgerman](http://t.me/pancakeswapgerman)\)
+🇩🇪 Deutsche Community \([http://t.me/nortswapgerman](http://t.me/nortswapgerman)\)
 
- 🇧🇷 Portuguese Community \([http://t.me/PancakeSwapBR](http://t.me/PancakeSwapBR)\) 
+🇧🇷 Portuguese Community \([http://t.me/NortswapBR](http://t.me/NortswapBR)\)
 
-🇦🇪 Arabic Community \([http://t.me/PancakeSwapArabic](http://t.me/PancakeSwapArabic)\)
-
+🇦🇪 Arabic Community \([http://t.me/NortswapArabic](http://t.me/NortswapArabic)\)
