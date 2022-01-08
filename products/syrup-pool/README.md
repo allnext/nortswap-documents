@@ -1,32 +1,30 @@
-# 🍯 Syrup Pools
+# 🤽 Nort Pools
 
-![Ahh, delicious](../../.gitbook/assets/masthead%20%281%29.png)
+### **What are Nort Pools?**
 
-### **What are Syrup Pools?**
-
-Syrup Pools are the simplest way to earn free tokens on Nortswap.  
+Pools are the simplest way to earn free tokens on Nortswap.\
 Stake NT, earn free tokens. It’s really that easy.
 
 Some special pools let you stake other tokens besides NT, too!
 
-### **How can I use Syrup Pools?**
+### **How can I use Nort Pools?**
 
-{% page-ref page="syrup-pool-guide.md" %}
+{% content-ref url="syrup-pool-guide.md" %}
+[syrup-pool-guide.md](syrup-pool-guide.md)
+{% endcontent-ref %}
 
-{% page-ref page="auto-compounding.md" %}
+### Nort Pool FAQs & Troubleshooting
 
-### Syrup Pool FAQs & Troubleshooting
+{% content-ref url="syrup-pool-faq.md" %}
+[syrup-pool-faq.md](syrup-pool-faq.md)
+{% endcontent-ref %}
 
-{% page-ref page="syrup-pool-faq.md" %}
-
-### **How can I run a Syrup Pool for my project?**
+### **How can I run a Nort Pool for my project?**
 
 Reach out via [the application form](https://docs.nortswap.finance/contact-us/business-partnerships).
 
-### Syrup Pool Smart Contracts <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### Nort Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[All Manual Syrup Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
+[All Manual Nort Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
 
-[Auto NT Syrup Pool](../../code/smart-contracts/cakevault.md)
-
-### <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>

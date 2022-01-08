@@ -1,44 +1,21 @@
 # Social Accounts & Communities
 
-![](../.gitbook/assets/docs-masthead-22-.png)
-
 Here you'll find a list of Nortswap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/allnext](https://twitter.com/allnext)
-
-## 📰 Blog (Medium)
-
-https://medium.com/@nortswap"
-
-## 👽 Reddit
-
-https://reddit.com/r/nortswap"
+{% embed url="https://twitter.com/Nort83973702" %}
 
 ## 🤳 Instagram
 
-https://www.instagram.com/allnext_official/"
+{% embed url="https://www.instagram.com/allnext.oficial" %}
 
 ## 💬 Telegram
 
 **Official Telegram Groups:**
 
-- 📣 Announcement Channel ([http://t.me/NortswapAnn](http://t.me/NortswapAnn))
-- 🥞 English ([http://t.me/nortswap](http://t.me/nortswap))
-- 🇯🇵 Japanese ([https://t.me/NortswapJP](https://t.me/NortswapJP))
-- 🇨🇳 Chinese ([http://t.me/Nortswap_CN](http://t.me/Nortswap_CN))
-- 🇮🇩 Indonesian ([http://t.me/NortswapIndonesia](http://t.me/NortswapIndonesia))
-- 🇻🇳 Việt Nam ([https://t.me/NortswapVN](https://t.me/NortswapVN))
-- 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/NortswapES](https://t.me/NortswapES))
-- 🇷🇺 Russian ([http://t.me/nortswap_ru](http://t.me/nortswap_ru))
-- 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/NortswapPortuguese](https://t.me/NortswapPortuguese))
-- 🇫🇷 French ([https://t.me/nortswapfr](https://t.me/nortswapfr))
-- 🇮🇹 Italiano ([https://t.me/nortswap_ita](https://t.me/nortswap_ita))
-- 🇹🇷 Türkiye ([https://t.me/nortswapturkiye](https://t.me/nortswapturkiye))
-- 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/Nortswap_DE](https://t.me/Nortswap_DE))
-- 🇵🇭 Filipino ([https://t.me/Nortswap_Ph](https://t.me/Nortswap_Ph))
-- 😤 Ban Appeal ([https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA))
+* 📣 Announcement Channel ([https://t.me/joinchat/6FpT\_cW2fc5hODEx](https://t.me/joinchat/6FpT\_cW2fc5hODEx))
+* 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/joinchat/6FpT\_cW2fc5hODEx](https://t.me/joinchat/6FpT\_cW2fc5hODEx))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.

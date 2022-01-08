@@ -1,59 +1,33 @@
 # Business Partnerships
 
-![](<../.gitbook/assets/docs-masthead-21- (1).png>)
+## Nort Vaults and Nort Pools
 
-## Farms and Syrup Pools
+Vaults incentivize users to long term holding your token by distributing NT or your own token to your holders. And you can really do a work by refering it for your community and let the holders grows exponentialy.
 
-Farms incentivize users to provide liquidity for your trading pair by distributing NT to your pair's LP Token holders.
-
-Syrup Pools are a way of distributing your tokens to BSC users who stake NT in the pool.
+Nort Pools are a way of distributing your tokens to BSC users who stake NT in the pool.
 
 These two products go hand-in-paw on Nortswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-[Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)
+[Apply to run a Vault or Nort Pool](https://forms.gle/k4CAvP8eQpoT9gu26)
 
-- Please don't email us to apply - we only respond to applications via the application form.
-- Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
-
-### How long will it take to get a response?
-
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
-
-### What’s the difference between a Core Farm VS Farm Auction
-
-A Core Farm is usually offered to projects who have shown excellent trading volumes on Nortswap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
-
-### What are the qualifying criteria for Community VS Core?
-
-Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
-
-### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
-
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing Nortswap communication channels for enquiries.
-
-## IFOs (Token Sales)
-
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by Nortswap. Here's how it works, in short:
-
-- Users buy your token with NT-BNB LP tokens
-- After the sale, we distribute the BNB to you and burn the NT.
-
-Learn more about [how IFOs work](https://medium.com/allnext/initial-farm-offering-ifo-2-0-7bfbb1ae0e8).
-
-[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
-
-- Please don't email us to apply - we only respond to applications via the application form.
-- Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+* Please don't email us to apply - we only respond to applications via the application form.
+* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/nortmaster](htps://t.me/nortm) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
-## NFT Market <a href="exchange" id="exchange"></a>
+### What’s the difference between a Core Pool VS Standard Pool
 
-[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
+A Core Farm is usually offered to projects who have shown excellent trading volumes on Nortswap and have met the standards of our internal review process.
 
-## Listing on the Exchange <a href="exchange" id="exchange"></a>
+### Can I get a larger pool multiplier? Or can I extend my Syrup Pool and Vault?
+
+If you’ve already got an ongoing Pool and Vault, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing Nortswap communication channels for enquiries.
+
+
+
+## Listing on the Exchange <a href="#exchange" id="exchange"></a>
 
 ### How can I list my token on the exchange?
 
@@ -61,7 +35,7 @@ Anybody can "list" any BEP-20 network token on Nortswap. You don't need to conta
 
 ### How can I add my token to the default list?
 
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by Nortswap core team may also be added.
+The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Vaults or Pools will usually be added, and other tokens chosen by Nortswap core team may also be added.
 
 We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
 
@@ -79,6 +53,6 @@ Check our [Troubleshooting page](../help/troubleshooting.md) for a list of commo
 
 ## Something else
 
-You can shoot us an email at nortswap@gmail.com if the above parts don't cover your questions.
+You can shoot us an email at suporte@nort.app.br if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).

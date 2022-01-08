@@ -1,30 +1,23 @@
 # Get Started
 
-![](../.gitbook/assets/docs-masthead-15-%20%281%29.png)
-
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with Nortswap!
 
 ## Setting up Nortswap
 
 Follow these guides to get everything set up to use Nortswap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Create a Wallet](https://docs.nortswap.finance/get-started/wallet-guide)  
-[Get BEP20 Tokens](https://docs.nortswap.finance/get-started/bep20-guide)  
+[Create a Wallet](https://docs.nortswap.finance/get-started/wallet-guide)\
+[Get BEP20 Tokens](https://docs.nortswap.finance/get-started/bep20-guide)\
 [Connect Your Wallet to Nortswap](https://docs.nortswap.finance/get-started/connection-guide)
 
 ## Guides for using Nortswap features
 
 Once you have a wallet set up and connected to Nortswap, feel free to check our other how to guides below.
 
-[How to Trade](https://docs.nortswap.finance/products/nortswap-exchange/trade-guide)  
-[How to Add/Remove Liquidity](https://docs.nortswap.finance/products/nortswap-exchange/liquidity-guide)  
-[How to Use Farms](https://docs.nortswap.finance/products/yield-farming/how-to-use-farms)  
-[How to Stake in Syrup Pools](https://docs.nortswap.finance/products/syrup-pool/syrup-pool-guide)  
-[How to Play the Lottery](https://docs.nortswap.finance/products/lottery/lottery-guide)  
-[How to Use Prediction](https://docs.nortswap.finance/products/prediction/prediction-guide)  
-[How to Participate in an IFO](https://docs.nortswap.finance/products/ifo-initial-farm-offering/ifo-guide)  
-[How to Set Up an NFT Profile](https://docs.nortswap.finance/products/nft-profile-system/profile-guide)  
-[How to Vote](https://docs.nortswap.finance/products/voting/voting-guide)
+[How to Trade](https://docs.nortswap.finance/products/nortswap-exchange/trade-guide)\
+[How to Add/Remove Liquidity](https://docs.nortswap.finance/products/nortswap-exchange/liquidity-guide)\
+[How to Stake in Nort Pools](https://docs.nortswap.finance/products/syrup-pool/syrup-pool-guide)\
+How to Stake in Nort Vaults
 
 Check the menu for more documentation on the range of Nortswap features and services, including more advanced guides.
 
