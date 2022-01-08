@@ -21,8 +21,6 @@ But that's not all -- there's much more on the horizon for NT!
 
 Check below to discover the nuts and bolts of how NT works.
 
-[cake-tokenomics.md](cake-tokenomics.md)
-
-[controlling-cake-supply.md](broken-reference)
+[nt-tokenomics.md](cake-tokenomics.md)
 
 ### \*\*\*\*

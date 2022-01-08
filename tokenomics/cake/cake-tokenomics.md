@@ -2,7 +2,7 @@
 
 ## **Distribution** <a href="#emission-rate" id="emission-rate"></a>
 
-****
+**Fixed Max Supply: 100.000.000 NT**
 
 | ****             | **Total** |
 | ---------------- | --------: |
@@ -11,6 +11,11 @@
 | Marketing        |        5M |
 | Pre-sale         |       10M |
 | Liquidity        |      5.5M |
+| Private Sale     |      4.5M |
+
+{% hint style="info" %}
+Rewards Tresury will be used to distribute NT in Pools, Vaults and others future services.
+{% endhint %}
 
 {% hint style="info" %}
 Core team and marketing wallets release 1.75% by month until 2027. If this amount will not be used, will be locked again.
