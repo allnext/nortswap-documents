@@ -11,5 +11,6 @@ The following links will take you to the BscScan page for Nortswap's main smart 
 * [Nortswap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
 * Others:
   * [Farms Contracts](./#farms-contracts)
-  * [IFO Contracts](./#ifo-contracts)
+  * [Pool Contract](https://www.bscscan.com/address/0xfacee30064ff858b91dd277ff09edc56376a32ad)
+  * [Vault Contract](https://www.bscscan.com/address/0x27b39666d1af8a5e0e14bc8ca35aca83a1710132)
 
