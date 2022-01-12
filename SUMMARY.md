@@ -4,7 +4,6 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using Nortswap without Centralized Exchanges](get-started/using-nortswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to Nortswap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
@@ -29,10 +28,10 @@
   * [How to Stake in Nort Pools](products/syrup-pool/syrup-pool-guide.md)
   * [Nort Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
 
-## Tokenomics
+## TOKENOMICS
 
-* [NT](tokenomics/cake/README.md)
-  * [NT Tokenomics](tokenomics/cake/cake-tokenomics.md)
+* [NT](tokenomics/nt/README.md)
+  * [NT Tokenomics](tokenomics/nt/nt-tokenomics.md)
 
 ## Developers <a href="#code" id="code"></a>
 

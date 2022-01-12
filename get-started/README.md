@@ -17,7 +17,7 @@ Once you have a wallet set up and connected to Nortswap, feel free to check our 
 [How to Trade](https://docs.nortswap.finance/products/nortswap-exchange/trade-guide)\
 [How to Add/Remove Liquidity](https://docs.nortswap.finance/products/nortswap-exchange/liquidity-guide)\
 [How to Stake in Nort Pools](https://docs.nortswap.finance/products/syrup-pool/syrup-pool-guide)\
-How to Stake in Nort Vaults
+[How to Stake in Nort Vaults](../products/yield-farming.md)
 
 Check the menu for more documentation on the range of Nortswap features and services, including more advanced guides.
 

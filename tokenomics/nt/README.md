@@ -16,11 +16,3 @@ Earn NT from Vaults and Nort Pools, referral program, liquidity, or [buy it on t
 * Provide liquidity for Nort Token
 
 But that's not all -- there's much more on the horizon for NT!
-
-## In detail
-
-Check below to discover the nuts and bolts of how NT works.
-
-[nt-tokenomics.md](cake-tokenomics.md)
-
-### \*\*\*\*

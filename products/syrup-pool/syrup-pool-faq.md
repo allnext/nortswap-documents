@@ -45,9 +45,9 @@ There are three main types of Nort Pools.
 2. Stake NT, earn other tokens.
 3. Stake other tokens, earn NT
 
-The rewards for the "Stake NT, earn NT" Pools come from the [NT ](../../tokenomics/cake/cake-tokenomics.md)rewards tresury.&#x20;
+The rewards for the "Stake NT, earn NT" Pools come from the [NT ](broken-reference)rewards tresury.&#x20;
 
 The rewards for the "Stake NT, earn other tokens" type are provided by the project teams who sponsor a Nort Pool.
 
-For the "Stake other tokens, earn NT" type, come from the [NT ](../../tokenomics/cake/cake-tokenomics.md)rewards tresury to distribute as rewards. These pools are funded by Nortswap, not by the projects themselves.
+For the "Stake other tokens, earn NT" type, come from the [NT ](broken-reference)rewards tresury to distribute as rewards. These pools are funded by Nortswap, not by the projects themselves.
 
